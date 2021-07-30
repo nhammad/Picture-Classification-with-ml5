@@ -21,7 +21,7 @@ Instructions on how to use the interface are given on the respective screens.
 ![Classification](./src/assets/Classification.png ) 
 
 ### Done By -
-[**Neeha Hammad**](https://github.com/nhammad) - n.hammad@jacobs-university.de 
+[**Neeha Hammad**](https://github.com/nhammad) - neeha.hammad@hotmail.com
 
 ### Deployment
 
