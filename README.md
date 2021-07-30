@@ -18,7 +18,7 @@ Instructions on how to use the interface are given on the respective screens.
 
 **Image Classification:**
 
-![Classification](./src/assets/Classification.png ) 
+![Classification](./src/assets/demo.png ) 
 
 ### Done By -
 [**Neeha Hammad**](https://github.com/nhammad) - neeha.hammad@hotmail.com
